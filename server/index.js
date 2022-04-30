@@ -7,7 +7,7 @@ const PORT = process.env.PORT || 8080;
 const app = express();
 
 app.get("/api", (req, res) => {
-  res.json({ message: "Welcome to CrawenOS!" });
+  res.json({ message: "</> still in development stage." });
 });
 
 app.listen(PORT, () => {

@@ -1,7 +1,7 @@
 import "./App.css";
 
 import React from "react";
-import logo from "./xasza.png";
+import logo from "./xazsa.ico";
 
 function App() {
   const [data, setData] = React.useState(null);
