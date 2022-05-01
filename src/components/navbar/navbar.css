@@ -1,0 +1,47 @@
+.crawenOS__navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 0rem 1rem;
+}
+
+.crawenOS__navbar-links {
+    flex: 1;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.crawenOS__navbar-links_logo {
+    margin-right: 3rem;
+}
+
+.crawenOS__navbar-links_logo img {
+    width: 48px;
+    height: 48px;
+}
+
+.crawenOS__navbar-links_container {
+    display: flex;
+    flex-direction: row;
+}
+
+.crawenos_navbar-downlaod {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.crawenOS__navbar-links_container p,
+.crawenOS_navbar-downlaod p,
+.crawenos_navbar-menu_container p{
+    color: #fff;
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 18px;
+    text-transform: capitalize;
+    margin: 0 1rem;
+    cursor: pointer;
+}
