@@ -18,8 +18,8 @@
 }
 
 .crawenOS__navbar-links_logo img {
-    width: 48px;
-    height: 48px;
+    width: 36px;
+    height: 36px;
 }
 
 .crawenOS__navbar-links_container {
@@ -39,8 +39,8 @@
     color: #fff;
     font-family: var(--font-family);
     font-weight: 400;
-    font-size: 18px;
-    line-height: 18px;
+    font-size: 16px;
+    line-height: 16px;
     text-transform: capitalize;
     margin: 0 1rem;
     cursor: pointer;
