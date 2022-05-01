@@ -9,15 +9,7 @@ const App = () => (
   <div className="App">
     <div className="gradient__bg">
       <Navbar />
-      <Header />
     </div>
-    <Brand />
-    <WhatCrawenOS />
-    <Features />
-    <Possibility />
-    <Cta />
-    <Blog />
-    <Footer />
   </div>
 );
 

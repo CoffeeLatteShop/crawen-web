@@ -1,9 +1,7 @@
 .crawenOS__navbar {
-    display: flex;
     justify-content: space-between;
-    align-items: center;
-
-    padding: 0rem 1rem;
+    margin: auto;
+    width: 28%;
 }
 
 .crawenOS__navbar-links {
@@ -18,8 +16,8 @@
 }
 
 .crawenOS__navbar-links_logo img {
-    width: 36px;
-    height: 36px;
+    width: 48px;
+    height: 48px;
 }
 
 .crawenOS__navbar-links_container {
@@ -36,11 +34,11 @@
 .crawenOS__navbar-links_container p,
 .crawenOS_navbar-downlaod p,
 .crawenos_navbar-menu_container p{
-    color: #fff;
+    color: #D9E0EE;
     font-family: var(--font-family);
-    font-weight: 400;
+    font-weight: 500;
     font-size: 16px;
-    line-height: 16px;
+    line-height: 40px;
     text-transform: capitalize;
     margin: 0 1rem;
     cursor: pointer;

@@ -13,12 +13,9 @@ const Navbar = () => {
         <img src={logo} alt="logo"/>
        </div>
        <div className='crawenOS__navbar-links_container'>
-          <p><a href="#whatCrawenOS">What is crawenOS?</a></p>
+          <p><a href="#Information">Information</a></p>
           <p><a href="#features">Features</a></p>
-          <p><a href="#Goals">Goals</a></p>
           <p><a href="#Devolopers">Devolopers</a></p>
-          <p><a href="#Discord">Discord</a></p>
-          <p><a href="#Youtube">Youtube</a></p>
       </div>
       </div>
     </div>
