@@ -14,7 +14,7 @@ const Navbar = () => {
        </div>
        <div className='crawenOS__navbar-links_container'>
           <p><a href="#Information">Information</a></p>
-          <p><a href="#features">Features</a></p>
+          <p><a href="#Features">Features</a></p>
           <p><a href="#Devolopers">Devolopers</a></p>
       </div>
       </div>

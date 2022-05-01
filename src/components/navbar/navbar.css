@@ -1,7 +1,7 @@
 .crawenOS__navbar {
     justify-content: space-between;
     margin: auto;
-    width: 28%;
+    width: 24%;
 }
 
 .crawenOS__navbar-links {
@@ -16,8 +16,8 @@
 }
 
 .crawenOS__navbar-links_logo img {
-    width: 48px;
-    height: 48px;
+    width: 44px;
+    height: 44px;
 }
 
 .crawenOS__navbar-links_container {
@@ -36,8 +36,8 @@
 .crawenos_navbar-menu_container p{
     color: #D9E0EE;
     font-family: var(--font-family);
-    font-weight: 500;
-    font-size: 16px;
+    font-weight: 300;
+    font-size: 17px;
     line-height: 40px;
     text-transform: capitalize;
     margin: 0 1rem;
