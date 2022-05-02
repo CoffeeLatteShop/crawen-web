@@ -3,7 +3,7 @@ import './navbar.css';
 import {RiCloseLin, RiMenu3Line} from 'react-icons/ri'
 
 import React from 'react';
-import logo from '../../assests/logo.png'
+import logo from '../../assests/karma.png'
 
 const Navbar = () => {
   return (
@@ -15,7 +15,7 @@ const Navbar = () => {
        <div className='crawenOS__navbar-links_container'>
           <p><a href="#Information">Information</a></p>
           <p><a href="#Features">Features</a></p>
-          <p><a href="#Devolopers">Devolopers</a></p>
+          <p><a href="#Developers">Developers</a></p>
       </div>
       </div>
     </div>

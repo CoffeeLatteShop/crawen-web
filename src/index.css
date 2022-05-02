@@ -1,12 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
 
 :root {
-  --font-family: 'Manrope', sans-serif;
+  --font-family: 'Montserrat', sans-serif;
 
-  --gradient-text: linear-gradient(89.97deg, #6c00ac 1.84%, #C9CBFF 102.67%);
-  --gradient-bar: linear-gradient(103.22deg, #6c00ac -13.86%, #C9CBFF 99.55%);
+  --gradient-text: linear-gradient(89.97deg, #6c00ac 1.84%, #fff 102.67%);
+  --gradient-bar: linear-gradient(103.22deg, #6c00ac -13.86%, #fff 99.55%);
 
-  --color-bg: #161320;
+  --color-bg: #0d0d0d;
   --color-footer: #D9E0EE;
   --color-blog: #302D41;
   --color-text: white;
