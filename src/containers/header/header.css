@@ -16,8 +16,8 @@
 .crawenOS__header-content h1 {
     font-family: var(--font-family);
     font-weight: 800;
-    font-size: 90px;
-    line-height: 95px;
+    font-size: 4rem;
+    line-height: 5rem;
     letter-spacing: -0.04em;
 }
 
@@ -43,6 +43,7 @@
     border-radius: 5%;
     width: 95%;
     height: 95%;
+    box-shadow: 0px 0px 21px 1px rgb(220 245 238 / 7%);
 }
 
 @media screen and (max-width: 1050px) {
