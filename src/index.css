@@ -3,12 +3,12 @@
 :root {
   --font-family: 'Montserrat', sans-serif;
 
-  --gradient-text: radial-gradient(circle at 25% 0%, #96CDFB 0%, #EE82EE 100%);
+  --gradient-text: radial-gradient(circle at 25% 0%, rgb(105, 123, 228) 0%, rgb(143, 128, 231) 33%, rgb(219, 142, 255) 66%, rgb(241, 144, 241) 100%);
   --gradient-bar: linear-gradient(103.22deg, #6c00ac -13.86%, #fff 99.55%);
 
   --color-bg: black;
   --color-footer: #D9E0EE;
   --color-blog: #302D41;
-  --color-text: #eceff1; 
+  --color-text: #eceff1;
   --color-subtext: #C9CBFF;
 }
