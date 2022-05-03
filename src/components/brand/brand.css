@@ -1,0 +1,22 @@
+.crawenOS__brand {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.crawenOS__brand div {
+    flex: 1;
+    max-width: 220px;
+    min-width: 150px;
+    margin: 2 rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.crawenOS__brand img {
+    width: 85%;
+    height: 85%;
+}
