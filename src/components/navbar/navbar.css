@@ -1,6 +1,6 @@
 .crawenOS__navbar {
     justify-content: space-between;
-    margin: 0 4rem;
+    margin: 0 1rem;
     padding-top: 0.7rem;
 }
 
@@ -17,8 +17,6 @@
 }
 
 .crawenOS__navbar-links_logo img {
-    width: 37%;
-    height: 37%;
     image-rendering: -webkit-optimize-contrast;
 }
 
@@ -32,10 +30,9 @@
     justify-content: flex-end;
     align-items: center;
 }
-
+.crawenOS__navbar-menu_container p,
 .crawenOS__navbar-links_container p,
-.crawenOS_navbar-downlaod p,
-.crawenos_navbar-menu_container p {
+.crawenOS_navbar-downlaod p {
     color: white;
     font-family: var(--font-family);
     font-weight: 500;
@@ -45,6 +42,7 @@
     margin: 0 2rem;
     cursor: pointer;
 }
+
 
 .glow-on-hover {
     width: 220px;
@@ -98,7 +96,8 @@
 }
 
 .crawenOS__navbar-menu {
-    margin-right: 1rem;
+    margin-left: 1rem;
+
     display: none;
     position: relative;
 }
@@ -107,37 +106,41 @@
     cursor: pointer;
 }
 
-.crawenOS__navbar-menu-container {
+.crawenOS__navbar-menu_container {
     display: flex;
     justify-content: flex-end;
-    align-items: flex-end;
+    align-items: center;
     flex-direction: column;
 
     text-align: end;
-    background: var(--color-footer);
+    background: black;
     padding: 2ram;
     position: absolute;
 
     top: 40px;
-    right: auto;
+    right: 0;
 
     margin-top: 1rem;
-    min-width: 210px;
+    min-width: 170px;
     border-radius: 5px;
     box-shadow: 0 0 5px #ffff;
 }
 
 
-.crawenOS__navbar-menu-container p {
+.crawenOS__navbar-menu_container p {
     margin: 1rem 0;
 }
 
-.crawenOS__navbar-menu-container-links-downlaod {
+.crawenOS__navbar-menu_container-links-downlaod {
     display: none;
 }
 
 @media screen and (max-width: 1050px) {
     .crawenOS__navbar-links_container {
+        display: none;
+    }
+
+    .crawenOS__navbar-download {
         display: none;
     }
 

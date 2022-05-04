@@ -14,13 +14,17 @@ const Brand = () => {
         <img src={facebook} alt="facebook"/>
       </div>
             <div>
+        <a href="https://discord.com/invite/crawenos">           
         <img src={discord} alt="discord"/>
+        </a>   
       </div>
             <div>
         <img src={telegram} alt="telegram"/>
       </div>
             <div>
+        <a href="https://buymeacoffee.com/crawenOS">                 
         <img src={buymeacoffe} alt="buymeacoffe"/>
+        </a>
       </div>
     </div>
   )
