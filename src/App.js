@@ -1,7 +1,7 @@
 import "./App.css";
 
 import { Brand, Navbar } from "./components"
-import { Header, Whatcrawenos } from "./containers"
+import { Info, Whatcrawenos } from "./containers"
 
 import React from "react"
 
@@ -9,7 +9,7 @@ const App = () => (
   <div className="App">
     <div className="gradient__bg">
       <Navbar />
-      <Header/>
+      <Info/>
     </div>
       <Brand/>
       <Whatcrawenos/>

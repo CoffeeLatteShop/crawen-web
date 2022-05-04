@@ -1,4 +1,4 @@
-import './header.css';
+import './info.css';
 
 import React from 'react';
 import mockup from '../../assests/crawen-mockup-pc1.png'
