@@ -13,6 +13,7 @@
 
 .crawenOS__navbar-links_logo {
     margin-right: auto;
+    cursor: pointer;
 }
 
 .crawenOS__navbar-links_logo img {
