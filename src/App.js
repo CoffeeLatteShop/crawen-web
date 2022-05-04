@@ -1,7 +1,7 @@
 import "./App.css";
 
-import { Blog, Features, Footer, Header, Possibility, Whatcrawenos } from "./containers"
-import { Brand, Cta, Navbar } from "./components"
+import { Brand, Navbar } from "./components"
+import { Header, Whatcrawenos } from "./containers"
 
 import React from "react"
 
@@ -11,8 +11,8 @@ const App = () => (
       <Navbar />
       <Header/>
     </div>
-    <Brand/>
-    <Whatcrawenos/>
+      <Brand/>
+      <Whatcrawenos/>
   </div>
 );
 

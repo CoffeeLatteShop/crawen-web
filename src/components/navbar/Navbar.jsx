@@ -1,7 +1,7 @@
 import './navbar.css';
 
 import React, {useState} from 'react';
-import {RiCloseLin, RiCloseLine, RiMenu3Line} from 'react-icons/ri'
+import {RiCloseLine, RiMenu3Line} from 'react-icons/ri'
 
 import logo from '../../assests/karma.png'
 
@@ -15,9 +15,8 @@ const Navbar = () => {
        </div>
        <div className='crawenOS__navbar-links_container'>
           <p><a href="#Information">Information</a></p>
-          <p><a href="#wcrawenos">What Is CrawenOS?</a></p>
+          <p><a href="#wcrawenos">CrawenOS?</a></p>
           <p><a href="#Features">Features</a></p>
-          <p><a href="#FutureIsNow">Future Is Now</a></p>
       </div>
       <div className="crawenOS__navbar-download">
         <button class="glow-on-hover" type="button">Download</button>
@@ -30,7 +29,7 @@ const Navbar = () => {
         <div className="crawenOS__navbar-menu_container scale-up-center">
           <div className="crawenOS__navbar-menu_container-links">
           <p><a href="#Information">Information</a></p>
-          <p><a href="#wcrawenos">What Is CrawenOS?</a></p>
+          <p><a href="#wcrawenos">CrawenOS?</a></p>
           <p><a href="#Features">Features</a></p>
           <p><a href="#FutureIsNow">Future Is Now</a></p>
           </div>
