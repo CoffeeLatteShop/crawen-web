@@ -14,7 +14,7 @@ const Brand = () => {
         <img src={facebook} alt="facebook"/>
       </div>
             <div>
-        <a href="https://discord.com/invite/crawenos">           
+        <a href="https://discord.com/invite/crawenos" target="_blank" rel="noopener noreferrer">           
         <img src={discord} alt="discord"/>
         </a>   
       </div>
@@ -22,7 +22,7 @@ const Brand = () => {
         <img src={telegram} alt="telegram"/>
       </div>
             <div>
-        <a href="https://buymeacoffee.com/crawenOS">                 
+        <a href="https://buymeacoffee.com/crawenOS" target="_blank" rel="noopener noreferrer">                 
         <img src={buymeacoffe} alt="buymeacoffe"/>
         </a>
       </div>

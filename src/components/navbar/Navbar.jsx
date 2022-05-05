@@ -20,7 +20,7 @@ const Navbar = () => {
     <div className='crawenOS__navbar'>
       <div className='crawenOS__navbar-links'>
        <div className='crawenOS__navbar-links_logo'>
-         <a href="https://discord.com/invite/crawenos">  
+         <a href="https://discord.com/invite/crawenos" target="_blank" rel="noopener noreferrer">  
         <img src={logo} alt="logo"/>
         </a>
        </div>
