@@ -5,7 +5,7 @@ import mockup from '../../assests/crawen-mockup-pc1.png'
 
 const Header = () => {
   return (
-    <div className="crawenOS__header section__padding" id="Information">
+    <div className="crawenOS__header section__padding" id="info">
       <div className='crawenOS__header-content'>
         <h1 className="gradient__text">
           This is What You Require.

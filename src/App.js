@@ -1,7 +1,7 @@
 import "./App.css";
 
 import { Brand, Navbar } from "./components"
-import { Info, Whatcrawenos } from "./containers"
+import { Features, Footer, Info, Whatcrawenos } from "./containers"
 
 import React from "react"
 
@@ -13,6 +13,8 @@ const App = () => (
     </div>
       <Brand/>
       <Whatcrawenos/>
+      <Features/>
+      <Footer/>
   </div>
 );
 

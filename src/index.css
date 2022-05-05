@@ -6,6 +6,7 @@
   --gradient-text: radial-gradient(circle at 25% 0%, rgb(105, 123, 228) 0%, rgb(143, 128, 231) 33%, rgb(219, 142, 255) 66%, rgb(241, 144, 241) 100%);
   --gradient-text2: linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(213, 213, 213, 1) 100%);
   --gradient-text3: linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(213, 213, 213, 1) 100%);
+  --gradient-text4: radial-gradient(ellipse at 92% 0%, rgba(0, 255, 30, 1) 0%, rgba(255, 255, 255, 1) 69%);
   --gradient-bar: linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(213, 213, 213, 1) 100%);
 
   --color-bg: #030303;
