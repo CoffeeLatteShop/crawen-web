@@ -13,7 +13,9 @@ const Brand = () => {
         </a>
       </div>
           <div>
+        <a href="https://fb.me/crawenOS" target="_blank" rel="noopener noreferrer">     
         <img src={facebook} alt="facebook"/>
+        </a>
       </div>
             <div>
         <a href="https://discord.com/invite/crawenos" target="_blank" rel="noopener noreferrer">           
