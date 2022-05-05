@@ -8,7 +8,9 @@ const Brand = () => {
   return (
     <div className='crawenOS__brand section__padding'>
       <div>
+        <a href="https://www.youtube.com/channel/UCn8O642viwA5s4KQjZjal_Q" target="_blank" rel="noopener noreferrer"> 
         <img src={youtube} alt="youtube"/>
+        </a>
       </div>
           <div>
         <img src={facebook} alt="facebook"/>
@@ -19,7 +21,9 @@ const Brand = () => {
         </a>   
       </div>
             <div>
+         <a href="https://t.me/crawenOS" target="_blank" rel="noopener noreferrer">      
         <img src={telegram} alt="telegram"/>
+        </a>
       </div>
             <div>
         <a href="https://buymeacoffee.com/crawenOS" target="_blank" rel="noopener noreferrer">                 
